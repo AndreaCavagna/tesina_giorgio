@@ -1,0 +1,131 @@
+\documentclass[a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
+
+
+%\renewcommand{\thesection}{\arabic{section}} % to avoid chapters
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{colortbl}
+\let\footruleskip\undefined
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{verbatim}
+\pagestyle{fancyplain}
+\usepackage{amsmath}
+\usepackage{subfig}
+\usepackage[dvipsnames]{xcolor}
+\usepackage[export]{adjustbox}
+\fancyhead[l]{\leftmark}
+\fancyhead[r]{\today}
+\setlength\parindent{10pt}
+\setlength\parskip{5pt}
+\usepackage{amsmath} % must be included for cleveref to work
+\usepackage[hidelinks]{hyperref}
+\usepackage[nameinlink]{cleveref}
+\graphicspath{{./images/}}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage[space]{grffile}
+\usepackage{caption}
+\usepackage{dirtytalk}
+\usepackage{blindtext}
+
+\DeclareCaptionType{equ}[][]
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\definecolor{backcolourbash}{rgb}{0.65,0.65,0.8}
+\definecolor{codegreenbash}{rgb}{0.9,0.9,0.9}
+
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\ttfamily\footnotesize,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2
+}
+
+\lstdefinestyle{customBash}{
+	backgroundcolor=\color{backcolourbash},   
+	commentstyle=\color{codegreenbash},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\ttfamily\footnotesize,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2
+}
+
+\definecolor{lbcolor}{rgb}{0.9,0.2,0.2} 
+ 
+
+
+\lstset{style=mystyle}
+
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\renewcommand{\arraystretch}{2} % This command might break stuff, but makes tabulars much more readable
+
+% Used to include TODO's in the document
+\usepackage[colorinlistoftodos]{todonotes}
+
+\usepackage{caption}
+
+\usepackage{titlesec}
+\titleformat{\chapter}[hang] 
+{\normalfont\huge\bfseries}{\thechapter}{1em}{}
+
+% \titlespacing{command}{left spacing}{before spacing}{after spacing}[right]
+% spacing: how to read {12pt plus 4pt minus 2pt}
+%           12pt is what we would like the spacing to be
+%           plus 4pt means that TeX can stretch it by at most 4pt
+%           minus 2pt means that TeX can shrink it by at most 2pt
+%       This is one example of the concept of, 'glue', in TeX
+\titlespacing\chapter{0pt}{8pt plus 4pt minus 2pt}{8pt plus 2pt minus 2pt}
+
+\usepackage{tabularx}               % Enables tabluarx environment
+\usepackage{booktabs}               % Lines for tables
+\usepackage{float}
+\restylefloat{table}
+
+%glossaries
+\usepackage[automake]{glossaries}
+\setacronymstyle{long-short}
+\makeglossaries
+\glstoctrue
+\setglossarystyle{altlist}
+
+\newcommand{\newabbrentry}[4]{%
+	\newglossaryentry{#1}{
+		name={ \makefirstuc{#3} (#2)},
+		first={#3 (#2)},
+		description={#4},
+		text={#2}
+	}
+}
+
+% task description table counters
+\newcounter{i}
+\newcounter{j}

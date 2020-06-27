@@ -1,0 +1,41 @@
+
+\input{./common/preamble}
+\usepackage[backend=biber,style=numeric,sorting=none]{biblatex}
+\addbibresource{bibliografia.bib}
+\usepackage{wrapfig}
+
+
+\begin{document}
+	
+\input{titlepage/titlepage}
+	%\printglossary[type=\acronymtype, title=Abbreviations]
+	
+	\setcounter{tocdepth}{3}
+	%\tableofcontents
+	
+	
+	% Chapters
+	\newpage
+	\tableofcontents
+	\newpage
+	\input{chapters/ch1}
+	\newpage
+	\input{chapters/ch2}
+	\newpage
+	\input{chapters/ch3}
+	\newpage
+	\input{chapters/ch4}
+	\newpage
+	\input{chapters/ch5}
+	\newpage
+	\input{chapters/ch6}
+	\newpage
+	\input{chapters/ch7}
+
+	\newpage
+	\addcontentsline{toc}{section}{Sitografia}
+	\printbibliography[heading=bibintoc, title={Sitografia}]	
+
+	
+
+\end{document}

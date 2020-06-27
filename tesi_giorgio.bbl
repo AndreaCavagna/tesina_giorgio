@@ -1,0 +1,251 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{maggioli}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=91f84d642d2c052c28c91e11eabd02bf}{%
+           family={Maggioli},
+           familyi={M\bibinitperiod},
+           given={Scilla\bibnamedelimb Alberini\bibnamedelima -},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim \bibinitperiod}}}%
+      }
+      \strng{namehash}{91f84d642d2c052c28c91e11eabd02bf}
+      \strng{fullhash}{91f84d642d2c052c28c91e11eabd02bf}
+      \strng{bibnamehash}{91f84d642d2c052c28c91e11eabd02bf}
+      \strng{authorbibnamehash}{91f84d642d2c052c28c91e11eabd02bf}
+      \strng{authornamehash}{91f84d642d2c052c28c91e11eabd02bf}
+      \strng{authorfullhash}{91f84d642d2c052c28c91e11eabd02bf}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PGT - Piano di Governo del Territorio}
+      \verb{urlraw}
+      \verb http://www.comune.spinone-al-lago.bg.it/index.php/aree-tematiche/urbanistica/item/1284-pgt-piano-di-governo-del-territorio
+      \endverb
+      \verb{url}
+      \verb http://www.comune.spinone-al-lago.bg.it/index.php/aree-tematiche/urbanistica/item/1284-pgt-piano-di-governo-del-territorio
+      \endverb
+    \endentry
+    \entry{endine}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{journaltitle}{PLIS del Lago di Endine}
+      \verb{urlraw}
+      \verb http://www.parcolagoendine.valcavallina.bg.it/flora.htm
+      \endverb
+      \verb{url}
+      \verb http://www.parcolagoendine.valcavallina.bg.it/flora.htm
+      \endverb
+    \endentry
+    \entry{-_di_-_tecnica_here_2017}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=a29674714526f5db7da1ddb86de824f2}{%
+           family={-},
+           familyi={\bibinitperiod},
+           given={Di\bibnamedelima Redazione\bibnamedelima Tecnica},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=5961102bbf53b3ac0b9085f1ef3ce3f0}{%
+           family={Di},
+           familyi={D\bibinitperiod}}}%
+        {{hash=336d5ebc5436534e61d16e63ddfca327}{%
+           family={-},
+           familyi={\bibinitperiod}}}%
+        {{hash=b63dd9c3807529489c255a6b5faf160a}{%
+           family={Tecnica},
+           familyi={T\bibinitperiod},
+           given={Redazione},
+           giveni={R\bibinitperiod}}}%
+        {{hash=cacc695338fda7eb2a149b82189e2955}{%
+           family={here},
+           familyi={h\bibinitperiod},
+           given={Please\bibnamedelimb enter\bibnamedelimb your\bibnamedelima name},
+           giveni={P\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim n\bibinitperiod}}}%
+      }
+      \strng{namehash}{24b3e99b038bd238e582e485880135bf}
+      \strng{fullhash}{816cdbbf1b95d9a7d1098b1adc010aac}
+      \strng{bibnamehash}{24b3e99b038bd238e582e485880135bf}
+      \strng{authorbibnamehash}{24b3e99b038bd238e582e485880135bf}
+      \strng{authornamehash}{24b3e99b038bd238e582e485880135bf}
+      \strng{authorfullhash}{816cdbbf1b95d9a7d1098b1adc010aac}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ediltecnico}
+      \field{month}{3}
+      \field{title}{Permesso di costruire: è necessario per un chiosco prefabbricato?}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.ediltecnico.it/40477/permesso-costruire-necessario-per-chiosco-prefabbricato/
+      \endverb
+      \verb{url}
+      \verb https://www.ediltecnico.it/40477/permesso-costruire-necessario-per-chiosco-prefabbricato/
+      \endverb
+    \endentry
+    \entry{commercio}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labeltitlesource}{title}
+      \field{title}{Ufficio del commercio}
+      \verb{urlraw}
+      \verb http://www.ufficiocommercio.it/chioschi-per-attivit-commerciale-edicole-bar-ecc-permesso-di-costruire.html
+      \endverb
+      \verb{url}
+      \verb http://www.ufficiocommercio.it/chioschi-per-attivit-commerciale-edicole-bar-ecc-permesso-di-costruire.html
+      \endverb
+    \endentry
+    \entry{decreto}{misc}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labeltitlesource}{title}
+      \field{title}{Decreto Legislativo 22 gennaio 2004, n. 42}
+      \verb{urlraw}
+      \verb https://www.bosettiegatti.eu/info/norme/statali/2004_0042.htm
+      \endverb
+      \verb{url}
+      \verb https://www.bosettiegatti.eu/info/norme/statali/2004_0042.htm
+      \endverb
+    \endentry
+    \entry{design}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labeltitlesource}{title}
+      \field{title}{Design Boom}
+      \verb{urlraw}
+      \verb https://www.designboom.com/architecture/metaform-architects-boos-beach-club-restaurant-luxembourg-12-02-2016/
+      \endverb
+      \verb{url}
+      \verb https://www.designboom.com/architecture/metaform-architects-boos-beach-club-restaurant-luxembourg-12-02-2016/
+      \endverb
+    \endentry
+    \entry{banconemis}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labeltitlesource}{title}
+      \field{title}{Bancone e misure}
+      \verb{urlraw}
+      \verb https://www.cucciari.it/misure-per-costruire-un-banco-bar.html
+      \endverb
+      \verb{url}
+      \verb https://www.cucciari.it/misure-per-costruire-un-banco-bar.html
+      \endverb
+    \endentry
+    \entry{bancone}{misc}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labeltitlesource}{title}
+      \field{title}{Bancone Generale}
+      \verb{urlraw}
+      \verb https://www.allforfood.com/divisione-del-banco-bar-s47-l1.html
+      \endverb
+      \verb{url}
+      \verb https://www.allforfood.com/divisione-del-banco-bar-s47-l1.html
+      \endverb
+    \endentry
+    \entry{celle}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labeltitlesource}{title}
+      \field{title}{Celle}
+      \verb{urlraw}
+      \verb https://brxitalia.com/wp- content/uploads/2017/05/BRX-Catalogo-Celle.pdf
+      \endverb
+      \verb{url}
+      \verb https://brxitalia.com/wp-%20content/uploads/2017/05/BRX-Catalogo-Celle.pdf
+      \endverb
+    \endentry
+    \entry{caffe}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{title}{Macchina Caffe}
+      \verb{urlraw}
+      \verb https://gaggiaprofessional.evocagroup.com/it/prodotti/macchine-tradizionali/la-reale
+      \endverb
+      \verb{url}
+      \verb https://gaggiaprofessional.evocagroup.com/it/prodotti/macchine-tradizionali/la-reale
+      \endverb
+    \endentry
+    \entry{decreto2}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{title}{REGIO DECRETO 11 DICEMBRE 1933, N. 1775 TESTO UNICO DELLE DISPOSIZIONI DI LEGGE SULLE ACQUE E IMPIANTI ELETTRICI}
+      \verb{urlraw}
+      \verb https://www.minambiente.it/sites/default/files/R.D._11-12-1933_n._1775.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.minambiente.it/sites/default/files/R.D._11-12-1933_n._1775.pdf
+      \endverb
+    \endentry
+    \entry{acqua}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{title}{Leggi acqua}
+      \verb{urlraw}
+      \verb https://www.exeo.it/Articoli/10977/demanio-e-patrimonio-acque-categorie-di-beni-argini.aspx
+      \endverb
+      \verb{url}
+      \verb https://www.exeo.it/Articoli/10977/demanio-e-patrimonio-acque-categorie-di-beni-argini.aspx
+      \endverb
+    \endentry
+    \entry{argine}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{title}{Rafforzamento Argine}
+      \verb{urlraw}
+      \verb http://www.crestsnc.it/divulgazione/media/idropdf/testo06.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.crestsnc.it/divulgazione/media/idropdf/testo06.pdf
+      \endverb
+    \endentry
+    \entry{documenti}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{title}{Documenti per aprire un bar}
+      \verb{urlraw}
+      \verb https://confesercentivero.it/news/supporto-imprenditoria/primi-passi/2017/03/01/documenti-per-aprire-bar/
+      \endverb
+      \verb{url}
+      \verb https://confesercentivero.it/news/supporto-imprenditoria/primi-passi/2017/03/01/documenti-per-aprire-bar/
+      \endverb
+    \endentry
+    \entry{barriere}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{title}{Barriere anti rumore}
+      \verb{urlraw}
+      \verb http://lft.unich.it/laboratorio-fisica-tecnica/images/pdf/lezioni/lez_n_5.pdf
+      \endverb
+      \verb{url}
+      \verb http://lft.unich.it/laboratorio-fisica-tecnica/images/pdf/lezioni/lez_n_5.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
