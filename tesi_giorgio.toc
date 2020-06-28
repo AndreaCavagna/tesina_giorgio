@@ -2,42 +2,42 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Introduzione}{2}{section.1}%
+\contentsline {section}{\numberline {1}Introduzione}{2}{section.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Inquadramento territoriale}{3}{section.2}%
+\contentsline {section}{\numberline {2}Inquadramento territoriale}{3}{section.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Vegetazione autoctona}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.1}Vegetazione autoctona}{4}{subsection.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Struttura precedente}{6}{section.3}%
+\contentsline {section}{\numberline {3}Struttura precedente}{6}{section.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Collocazione}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.1}Collocazione}{7}{subsection.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Regolamento Comune}{8}{section.4}%
+\contentsline {section}{\numberline {4}Regolamento Comune}{8}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Art. 3 (L) - Definizioni degli interventi edilizi}{8}{section.4}%
+\contentsline {paragraph}{Art. 3 (L) - Definizioni degli interventi edilizi}{8}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Art. 10 (L) - Interventi subordinati a permesso di costruire}{8}{Item.1}%
+\contentsline {paragraph}{Art. 10 (L) - Interventi subordinati a permesso di costruire}{8}{Item.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Idea Progettuale}{9}{section.5}%
+\contentsline {section}{\numberline {5}Idea Progettuale}{9}{section.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1}Ispirazione}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.1}Ispirazione}{9}{subsection.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2}Struttura}{10}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.2}Struttura}{10}{subsection.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3}Analisi delle indicazione ergonomiche relative ai moduli costituenti il bancone da lavoro }{11}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.3}Analisi delle indicazione ergonomiche relative ai moduli costituenti il bancone da lavoro }{11}{subsection.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Utilizzo degli spazi nel chiosco interno ed esterno}{14}{section.6}%
+\contentsline {section}{\numberline {6}Struttura e bar}{14}{section.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1}Progettazione bancone}{14}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.1}Progettazione bancone}{14}{subsection.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}Rafforzamento argine ruscello}{21}{section.7}%
+\contentsline {section}{\numberline {7}Area esterna}{22}{section.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1}Barriera anti rumore}{21}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.1}Barriera anti rumore}{23}{subsection.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2}Come l’ho realizzata}{22}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.2}Come l\IeC {\textquoteright }ho realizzata}{23}{subsection.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3}Allestimento Esterno}{22}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.3}Allestimento Esterno}{23}{subsection.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8}Conclusione}{24}{section.8}%
+\contentsline {section}{\numberline {8}Conclusione}{25}{section.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Sitografia}{25}{section.8}%
+\contentsline {section}{Sitografia}{26}{section.8}
