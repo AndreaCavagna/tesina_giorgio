@@ -10,13 +10,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Struttura precedente}{6}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Collocazione}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.1}Collocazione}{7}{subsection.3.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Regolamento Comune}{8}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Art. 3 (L) - Definizioni degli interventi edilizi}{8}{subsection.4.1}%
+\contentsline {paragraph}{Art. 3 (L) - Definizioni degli interventi edilizi}{8}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Art. 10 (L) - Interventi subordinati a permesso di costruire}{8}{subsection.4.2}%
+\contentsline {paragraph}{Art. 10 (L) - Interventi subordinati a permesso di costruire}{8}{Item.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5}Idea Progettuale}{9}{section.5}%
 \defcounter {refsection}{0}\relax 
@@ -24,22 +24,20 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.2}Struttura}{10}{subsection.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3}Analisi delle indicazione ergonomiche relative ai moduli costituenti il bancone da lavoro }{13}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.3}Analisi delle indicazione ergonomiche relative ai moduli costituenti il bancone da lavoro }{11}{subsection.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Utilizzo degli spazi nel chiosco interno ed esterno}{16}{section.6}%
+\contentsline {section}{\numberline {6}Utilizzo degli spazi nel chiosco interno ed esterno}{14}{section.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1}Progettazione bancone}{17}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.1}Progettazione bancone}{14}{subsection.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}Rafforzamento argine ruscello}{26}{section.7}%
+\contentsline {section}{\numberline {7}Rafforzamento argine ruscello}{21}{section.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1}Barriera anti rumore}{27}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.1}Barriera anti rumore}{21}{subsection.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2}Come l’ho realizzata}{27}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.2}Come l’ho realizzata}{22}{subsection.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3}Allestimento Esterno}{28}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.3}Allestimento Esterno}{22}{subsection.7.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8}Conclusione}{30}{section.8}%
+\contentsline {section}{\numberline {8}Conclusione}{24}{section.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Sitografia}{31}{section.8}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Sitografia}{31}{section.8}%
+\contentsline {section}{Sitografia}{25}{section.8}%
